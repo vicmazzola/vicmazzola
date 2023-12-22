@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @vicmazzola
+# 👋 Hello Devs! Welcome to my Github profile.
+##  My name is Victor Mazzola and my nickname is vicmazzola!
+
 - 👀 I’m interested in videogame
 - 🌱 I’m currently learning Logic programming
 - 📫  Instagram @mazzola_
