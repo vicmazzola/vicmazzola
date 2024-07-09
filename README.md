@@ -4,6 +4,7 @@
 - 👀 I’m interested in videogame
 - 🌱 I’m studying HTML, CSS, JavaScript.
 - 📫  Instagram @mazzola_
+- https://www.linkedin.com/in/victor-mazzola-59aa291a0/
 
 <!---
 vicmazzola/vicmazzola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
