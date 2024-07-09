@@ -2,7 +2,7 @@
 ##  My name is Victor Mazzola and my nickname is vicmazzola!
 
 - 👀 I’m interested in videogame
-- 🌱 I’m currently learning Logic programming
+- 🌱 I’m studying HTML, CSS, JavaScript.
 - 📫  Instagram @mazzola_
 
 <!---
