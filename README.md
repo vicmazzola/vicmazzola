@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Mazzola</h1>
 <h3 align="center">I'm studying to be a great Front End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicmazzola&label=Profile%20views&color=0e75b6&style=flat" alt="vicmazzola" /> </p>
+
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript** and have some basic knowledge in Python
   
