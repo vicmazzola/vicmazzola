@@ -39,7 +39,8 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vicmazzola&" alt="Streak Stats" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vicmazzola&theme=radical)](https://git.io/streak-stats)
+
 
 <h3 align="left">Fun Facts:</h3>
 <ul>
