@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Front End Developer</h3>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Daily Quote" />
 </p>
 
 
