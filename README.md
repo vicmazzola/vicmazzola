@@ -30,8 +30,6 @@
     <!-- Add other social links as needed -->
 </p>
 
-![GitHub Badge](https://img.shields.io/github/followers/vicmazzola?style=social)
-
 
 
 ---
