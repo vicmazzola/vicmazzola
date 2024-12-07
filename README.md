@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor Mazzola</h1>
 <h3 align="center">Aspiring Front End Developer</h3>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+</p>
+
+
 --- 
 
 ### 🌟 **About Me**
@@ -24,6 +29,10 @@
     </a>
     <!-- Add other social links as needed -->
 </p>
+
+![GitHub Badge](https://img.shields.io/github/followers/vicmazzola?style=social)
+
+
 
 ---
 
