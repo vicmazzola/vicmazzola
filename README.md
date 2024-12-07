@@ -14,7 +14,7 @@
   
 - 📝 I will obtain my Associate Degree in **Systems Analysis and Development** by the end of 2025.
 
-- 📫 Reach me at **victormazzola2019@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-mazzola-59aa291a0/).
+- 📫 Reach me at **victormazzola2019@gmail.com**
 
 ---
 
