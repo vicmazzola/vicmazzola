@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Victor Mazzola</h1>
-<h3 align="center">Aspiring Front End Developer</h3>
+<h3 align="center">Front-End Developer in Progress</h3>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Daily Quote" />
-</p>
 
 
 --- 
 
 ### 🌟 **About Me**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**, and exploring **Java**.
+- 🎯 I am focused on front-end development, specifically **React**⚛️ , and also have knowledge of **Java**☕ and **SQL**.
   
-- 📝 I will obtain my Associate Degree in **Systems Analysis and Development** by the end of 2025.
+- 🎓 Pursuing an Associate Degree in **Systems Analysis and Development**, expected to graduate in 2025.
 
 - 📫 Reach me at **victormazzola2019@gmail.com**
 
@@ -46,13 +43,27 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>   
+    </a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> 
+    </a>
+    <br>
+    <!-- Backend Technologies -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
+    <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+    </a>
+  
 </p>
+
+
 
 ---
 
@@ -62,6 +73,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmazzola&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -74,6 +86,13 @@
   and soon <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png" alt="German Flag" width="20"/> German!
 
 - 🎮 I enjoy coding projects related to games and technology.
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Daily Quote" />
+</p>
+
 
 
 
