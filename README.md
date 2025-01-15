@@ -1,19 +1,10 @@
+<!-- Header Wave -->
 <p align="center">
-  <!-- Typing SVG and Introduction -->
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=F66B92&background=282A36&center=true&vCenter=true&random=false&width=250&height=59&lines=+Hello+there!+%F0%9F%91%8B" alt="Typing SVG"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=header&reversal=true"/>
+<p align="center">
+  
 </p>
 <h3 align="center">Software Developer in Progress</h3>
-
-
-
---- 
-
-- 🎯 I am focused on front-end development, specifically **React**⚛️ , and also have knowledge of **Java**☕ and **SQL**.
-  
-- 🎓 Pursuing an Associate Degree in **Systems Analysis and Development**, expected to graduate in 2025.
-
-- 📫 Reach me at **victormazzola2019@gmail.com**
 
 ---
 
@@ -50,13 +41,12 @@ https://portfolio-react-delta-eight.vercel.app/
 
 ---
 
-### 📊 **GitHub Stats**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmazzola&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+<div align="center">
+<!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vicmazzola&show_icons=true&theme=radical" width="50%" alt="GitHub Stats"/>
+<!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmazzola&layout=compact&theme=radical" width="38%" alt="Most Used Languages"/>
+</div>
 
 ---
 
@@ -73,7 +63,10 @@ https://portfolio-react-delta-eight.vercel.app/
 ---
 
 
-
+<!-- Footer Wave-->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=footer&reversal=true"/>
+</p>
 
 
 
