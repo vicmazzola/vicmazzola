@@ -4,7 +4,7 @@
 <p align="center">
   
 </p>
-<h3 align="center">Software Developer in Progress</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
