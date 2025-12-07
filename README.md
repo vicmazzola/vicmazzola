@@ -25,18 +25,20 @@ https://portfolio-react-delta-eight.vercel.app/
 <!-- Skills -->
 <p align="center">
   <!-- First row: 4 icons -->
-  <img align="center" alt="React.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="TypeScript" width="50" height="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /> 
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Tailwind CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
+  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="Android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+
+
 </p>
 
 <p align="center">
   <!-- Second row: 4 icons -->
-  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="TypeScript" width="50" height="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /> 
+  <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="React.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img align="center" alt="Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-  <img align="center" alt="Android Studio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
-  <img align="center" alt="Oracle" width="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" /> 
 </p>
 
 
@@ -44,9 +46,9 @@ https://portfolio-react-delta-eight.vercel.app/
 
 <div align="center">
 <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vicmazzola&show_icons=true&theme=radical" width="50%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicmazzola&show_icons=true&theme=radical" width="50%" alt="GitHub Stats"/>
 <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmazzola&layout=compact&theme=radical" width="38%" alt="Most Used Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicmazzola&layout=compact&theme=radical" width="38%" alt="Most Used Languages"/>
 </div>
 
 ---
