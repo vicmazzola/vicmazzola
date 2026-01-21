@@ -48,10 +48,11 @@ https://portfolio-react-delta-eight.vercel.app/
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicmazzola&show_icons=true&theme=radical" width="50%" alt="GitHub Stats"/>
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicmazzola&layout=compact&theme=radical" width="38%" alt="Most Used Languages"/>
-</div>
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicmazzola&layout=compact&theme=radical" width="38%" alt="Most Used Languages"/>
+</div> -->
 
 ---
+
 
 ### 🎉 **Fun Facts**
 
