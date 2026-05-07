@@ -1,77 +1,98 @@
 <!-- Header Wave -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=header&reversal=true"/>
-<p align="center">
-  
 </p>
-<h3 align="center">Software Developer</h3>
+
+<h1 align="center">Victor Mazzola</h1>
+
+<h3 align="center">
+  Java Backend Developer • Software Developer
+</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+React+%7C+Docker;Building+Modern+Applications;Always+Learning+New+Technologies"
+  />
+</p>
 
 ---
 
-### 🚀 **Check my portfolio!**
-https://portfolio-react-delta-eight.vercel.app/
+## 🚀 Portfolio
 
-
+<p align="center">
+  <a href="https://portfolio-react-delta-eight.vercel.app/" target="_blank">
+    portfolio-react-delta-eight.vercel.app
+  </a>
 </p>
 
-<!-- Random Dev Quote -->
+---
+
+## 👨‍💻 About Me
+
+- Java Backend Developer at Foxconn
+- Working with Spring Boot, SQL, React, JSF and enterprise systems
+- Focused on backend development, software architecture and enterprise applications
+
+---
+
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
- <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; width: 560px;"/> 
+
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicmazzola&show_icons=true&theme=radical" 
+    width="48%" 
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vicmazzola&theme=radical" 
+    width="48%" 
+    alt="GitHub Streak"
+  />
+
 </div>
 
 ---
 
+## 🌍 Languages
 
-<!-- Skills -->
-<p align="center">
-  <!-- First row: 4 icons -->
-  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="center" alt="Android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+- 🇧🇷 Portuguese
+- 🇬🇧 English
+- 🇮🇹 Italian
+- 🇩🇪 Learning German
 
-
-</p>
+---
 
 <p align="center">
-  <!-- Second row: 4 icons -->
-  <img align="center" alt="TypeScript" width="50" height="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /> 
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="React.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/victor-mazzola-59aa291a0/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-
 ---
 
-<div align="center">
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicmazzola&show_icons=true&theme=radical" width="50%" alt="GitHub Stats"/>
-<!-- Most Used Languages -->
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicmazzola&layout=compact&theme=radical" width="38%" alt="Most Used Languages"/>
-</div> -->
-
----
-
-
-### 🎉 **Fun Facts**
-
-- 🌍 I speak three languages:  
-  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="Portuguese Flag" width="20"/> Portuguese,  
-  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png" alt="English Flag" width="20"/> English,  
-  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/it.png" alt="Italian Flag" width="20"/> Italian,  
-  and soon <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png" alt="German Flag" width="20"/> German!
-
-- 🎮 I enjoy coding projects related to games and technology.
-
----
-
-
-<!-- Footer Wave-->
+<!-- Footer Wave -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=footer&reversal=true"/>
 </p>
-
-
-
-
